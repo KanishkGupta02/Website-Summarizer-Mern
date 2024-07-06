@@ -134,4 +134,8 @@ The `store.js` file configures the Redux store, incorporating the article API re
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 8ad987089a8f97eb36d8326750414b04ba5d504f
