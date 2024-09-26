@@ -1,5 +1,5 @@
-# Build and Deploy Your Own ChatGPT AI SaaS Business with React
-If you're a solo developer, you have the power to build robust AI software startups! Make an Article Summarizer Application using OpenAI's GPT model.
+# ChatGPT AI Utility tool with React
+If you're a solo developer, you have the power to build robust AI software startups! Here is an Article Summarizer Application using OpenAI's GPT model.
 
 # Project Title: Article Summarizer
 
